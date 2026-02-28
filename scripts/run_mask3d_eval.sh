@@ -1,0 +1,92 @@
+which_python=$(which python)
+export PYTHONPATH=${PYTHONPATH}:${which_python}:.
+echo "PYTHONPATH: ${PYTHONPATH}"
+
+export MASTER_PORT=1407
+export MASTER_ADDR=localhost
+export TOKENIZERS_PARALLELISM=true
+
+epoch=3
+batch_size=2
+lr=2e-5
+train_emb=True
+train_img_proj=True
+add_img_token=True
+add_scene_token=False
+no_obj=False
+input_dim=1024
+bidirection=False
+different_lr=False
+max_obj_num=150
+lora_r=16
+lora_alpha=16
+add_pos_emb=False
+feat_fusion=False
+fuse_with_id=False
+config=""
+max_grad_norm=0.01
+seed=42
+use_location_token=False
+knn=2  # 0 when using Chat-Scene as baseline and 2 when using 3DGraphLLM as baseline
+
+llama_model_path="/path/to/Vicuna-7B-v1.5"  # modify here
+
+train_tag="scanrefer#obj_align#nr3d_caption#scan2cap#scanqa#sqa3d#multi3dref"
+val_tag="scanrefer#multi3dref#sqa3d"
+
+evaluate=True
+debug=False
+if [ $evaluate = "True" ]; then
+    enable_wandb=False
+    gpu_num=4
+    do_save=True
+    other_info="evaluation"
+else
+    enable_wandb=False
+    gpu_num=4
+    do_save=True
+    other_info="chatscene"
+fi
+
+tag="${train_tag}__${val_tag}__${other_info}"
+
+pretrained_path="outputs/quatrope-igre-m3d-finetune-7b-knn-2/ckpt_02_77139.pth"
+OUTPUT_DIR="outputs/quatrope-igre-m3d-finetune-7b-knn-2/epoch02"
+mkdir -p ${OUTPUT_DIR}
+
+torchrun --nproc_per_node="$gpu_num" --master_addr=localhost --master_port=1407 tasks/train.py \
+    "$(dirname $0)/${config}config.py" \
+    output_dir "$OUTPUT_DIR" \
+    scheduler.epochs "$epoch" \
+    optimizer.lr "$lr" \
+    model.add_scene_token "$add_scene_token" \
+    model.add_img_token "$add_img_token" \
+    pretrained_path "$pretrained_path" \
+    evaluate "$evaluate" \
+    wandb.enable "$enable_wandb" \
+    gpu_num "$gpu_num" \
+    do_save "$do_save" \
+    batch_size "$batch_size" \
+    model.train_emb "$train_emb" \
+    model.train_img_proj "$train_img_proj" \
+    train_tag "$train_tag" \
+    val_tag "$val_tag" \
+    model.no_obj "$no_obj" \
+    segmentor "$segmentor" \
+    pc_encoder "$pc_encoder" \
+    model.input_dim "$input_dim" \
+    model.bidirection "$bidirection" \
+    optimizer.different_lr.enable "$different_lr" \
+    model.max_obj_num "$max_obj_num" \
+    lora.lora_r "$lora_r" \
+    lora.lora_alpha "$lora_alpha" \
+    model.add_pos_emb "$add_pos_emb" \
+    model.feat_fusion "$feat_fusion" \
+    optimizer.max_grad_norm "$max_grad_norm" \
+    seed "$seed" \
+    model.fuse_with_id "$fuse_with_id" \
+    model.llama_model_path "$llama_model_path" \
+    model.use_location_token "$use_location_token" \
+    model.gt_pretrain False \
+    model.knn "$knn" \
+    model.rope_mode "igre"

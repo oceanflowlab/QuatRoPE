@@ -1,0 +1,2690 @@
+[
+    {
+        "scene_id": "scene0011_00",
+        "obj_id": 15,
+        "ref_captions": [
+            "<OBJ015>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is next to the table beneath the tv\"."
+    },
+    {
+        "scene_id": "scene0011_00",
+        "obj_id": 18,
+        "ref_captions": [
+            "<OBJ018>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is on the wall of the kitchen\"."
+    },
+    {
+        "scene_id": "scene0011_00",
+        "obj_id": 18,
+        "ref_captions": [
+            "<OBJ018>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is on the wall\"?"
+    },
+    {
+        "scene_id": "scene0011_00",
+        "obj_id": 18,
+        "ref_captions": [
+            "<OBJ018>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is at the end of the room\"."
+    },
+    {
+        "scene_id": "scene0011_00",
+        "obj_id": 25,
+        "ref_captions": [
+            "<OBJ025>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is above the brown cabinet\"."
+    },
+    {
+        "scene_id": "scene0019_00",
+        "obj_id": 0,
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is left of the stack of red chairs\"."
+    },
+    {
+        "scene_id": "scene0019_00",
+        "obj_id": 8,
+        "ref_captions": [
+            "<OBJ008>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is inside the trash can\"."
+    },
+    {
+        "scene_id": "scene0019_00",
+        "obj_id": 8,
+        "ref_captions": [
+            "<OBJ008>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is close to tan wood door\"?"
+    },
+    {
+        "scene_id": "scene0019_00",
+        "obj_id": 9,
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is on the opposite wall\"."
+    },
+    {
+        "scene_id": "scene0019_00",
+        "obj_id": 9,
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is the vending machine full of\"."
+    },
+    {
+        "scene_id": "scene0019_00",
+        "obj_id": 10,
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is to the right of the trash can\"."
+    },
+    {
+        "scene_id": "scene0019_00",
+        "obj_id": 10,
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is located across from a vending machine\"?"
+    },
+    {
+        "scene_id": "scene0025_00",
+        "obj_id": 3,
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is sitting in front of tall white shelf\"."
+    },
+    {
+        "scene_id": "scene0025_00",
+        "obj_id": 3,
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is in front of the shelf\"."
+    },
+    {
+        "scene_id": "scene0025_00",
+        "obj_id": 4,
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is to the right of the door\"?"
+    },
+    {
+        "scene_id": "scene0025_00",
+        "obj_id": 23,
+        "ref_captions": [
+            "<OBJ023>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is covering the window\"?"
+    },
+    {
+        "scene_id": "scene0025_00",
+        "obj_id": 24,
+        "ref_captions": [
+            "<OBJ024>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is on the cabinet\"."
+    },
+    {
+        "scene_id": "scene0025_00",
+        "obj_id": 39,
+        "ref_captions": [
+            "<OBJ039>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is in front of the couch\"."
+    },
+    {
+        "scene_id": "scene0030_00",
+        "obj_id": 1,
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is the only chair in the middle of the room\"?"
+    },
+    {
+        "scene_id": "scene0030_00",
+        "obj_id": 20,
+        "ref_captions": [
+            "<OBJ020>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is to the right of the door\"?"
+    },
+    {
+        "scene_id": "scene0030_00",
+        "obj_id": 21,
+        "ref_captions": [
+            "<OBJ021>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is in front of the brown table\"."
+    },
+    {
+        "scene_id": "scene0030_00",
+        "obj_id": 52,
+        "ref_captions": [
+            "<OBJ052>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is at the back of the room where the chalk boards meet\"."
+    },
+    {
+        "scene_id": "scene0030_00",
+        "obj_id": 52,
+        "ref_captions": [
+            "<OBJ052>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is rotatable\"."
+    },
+    {
+        "scene_id": "scene0046_00",
+        "obj_id": 1,
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is in front of the desk\"."
+    },
+    {
+        "scene_id": "scene0046_00",
+        "obj_id": 21,
+        "ref_captions": [
+            "<OBJ021>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is at the end of the hallway\"."
+    },
+    {
+        "scene_id": "scene0046_00",
+        "obj_id": 32,
+        "ref_captions": [
+            "<OBJ032>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is located above the open toilet seat\"?"
+    },
+    {
+        "scene_id": "scene0046_00",
+        "obj_id": 32,
+        "ref_captions": [
+            "<OBJ032>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is above the toilet\"."
+    },
+    {
+        "scene_id": "scene0046_00",
+        "obj_id": 47,
+        "ref_captions": [
+            "<OBJ047>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is underneath the white pillow\"?"
+    },
+    {
+        "scene_id": "scene0046_00",
+        "obj_id": 54,
+        "ref_captions": [
+            "<OBJ054>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is at the foot of the bed with two teirs\"."
+    },
+    {
+        "scene_id": "scene0046_00",
+        "obj_id": 56,
+        "ref_captions": [
+            "<OBJ056>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is covering the windows\"."
+    },
+    {
+        "scene_id": "scene0050_00",
+        "obj_id": 1,
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is to the right of the toobox\"."
+    },
+    {
+        "scene_id": "scene0050_00",
+        "obj_id": 1,
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is the tool box near\"?"
+    },
+    {
+        "scene_id": "scene0050_00",
+        "obj_id": 3,
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is in front of the desk\"?"
+    },
+    {
+        "scene_id": "scene0050_00",
+        "obj_id": 3,
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is in front of the brown door\"."
+    },
+    {
+        "scene_id": "scene0050_00",
+        "obj_id": 3,
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is in front of the door\"."
+    },
+    {
+        "scene_id": "scene0050_00",
+        "obj_id": 5,
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is the armchair facing\"."
+    },
+    {
+        "scene_id": "scene0050_00",
+        "obj_id": 5,
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is next to the brown door on the left\"?"
+    },
+    {
+        "scene_id": "scene0050_00",
+        "obj_id": 6,
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is on the left of the black knapsack\"."
+    },
+    {
+        "scene_id": "scene0050_00",
+        "obj_id": 9,
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is on the wall near the armchair\"."
+    },
+    {
+        "scene_id": "scene0050_00",
+        "obj_id": 11,
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is in front of the brown couch\"."
+    },
+    {
+        "scene_id": "scene0050_00",
+        "obj_id": 11,
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is the backpack on top of\"."
+    },
+    {
+        "scene_id": "scene0050_00",
+        "obj_id": 12,
+        "ref_captions": [
+            "<OBJ012>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is in front of the piano\"."
+    },
+    {
+        "scene_id": "scene0050_00",
+        "obj_id": 16,
+        "ref_captions": [
+            "<OBJ016>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is on the left wall of the house\"?"
+    },
+    {
+        "scene_id": "scene0063_00",
+        "obj_id": 3,
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is on top of the brown table\"."
+    },
+    {
+        "scene_id": "scene0063_00",
+        "obj_id": 11,
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is to the right of the fridge\"?"
+    },
+    {
+        "scene_id": "scene0063_00",
+        "obj_id": 12,
+        "ref_captions": [
+            "<OBJ012>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is in the room that has two chairs pulled up to it\"."
+    },
+    {
+        "scene_id": "scene0063_00",
+        "obj_id": 12,
+        "ref_captions": [
+            "<OBJ012>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is the countertop with 2 chairs pulled up to it called\"."
+    },
+    {
+        "scene_id": "scene0063_00",
+        "obj_id": 12,
+        "ref_captions": [
+            "<OBJ012>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is in the center of the room\"."
+    },
+    {
+        "scene_id": "scene0063_00",
+        "obj_id": 13,
+        "ref_captions": [
+            "<OBJ013>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is next to the wall\"."
+    },
+    {
+        "scene_id": "scene0063_00",
+        "obj_id": 14,
+        "ref_captions": [
+            "<OBJ014>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is on the right side of the counter top\"."
+    },
+    {
+        "scene_id": "scene0063_00",
+        "obj_id": 19,
+        "ref_captions": [
+            "<OBJ019>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is in the room that has a sink on its right side and a coffee pot on its left side\"?"
+    },
+    {
+        "scene_id": "scene0064_00",
+        "obj_id": 5,
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is closest to the bookshelf\"."
+    },
+    {
+        "scene_id": "scene0064_00",
+        "obj_id": 10,
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is directly behind the couch\"."
+    },
+    {
+        "scene_id": "scene0077_00",
+        "obj_id": 1,
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is to the left of a copier\"."
+    },
+    {
+        "scene_id": "scene0077_00",
+        "obj_id": 1,
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is below the window with blinds\"."
+    },
+    {
+        "scene_id": "scene0077_00",
+        "obj_id": 1,
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is the copier sitting to the right of\"."
+    },
+    {
+        "scene_id": "scene0077_00",
+        "obj_id": 3,
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is the only window in the room\"."
+    },
+    {
+        "scene_id": "scene0077_00",
+        "obj_id": 4,
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is placed against the wall\"."
+    },
+    {
+        "scene_id": "scene0077_00",
+        "obj_id": 6,
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is the black counter on top of\"."
+    },
+    {
+        "scene_id": "scene0081_00",
+        "obj_id": 0,
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is next to the table\"."
+    },
+    {
+        "scene_id": "scene0081_00",
+        "obj_id": 1,
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is next to the couch end\"."
+    },
+    {
+        "scene_id": "scene0081_00",
+        "obj_id": 2,
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is under a round table\"."
+    },
+    {
+        "scene_id": "scene0084_00",
+        "obj_id": 20,
+        "ref_captions": [
+            "<OBJ020>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is attached to the wall on the left, just above the sink counter\"."
+    },
+    {
+        "scene_id": "scene0084_00",
+        "obj_id": 26,
+        "ref_captions": [
+            "<OBJ026>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is to the left of the white toilet\"."
+    },
+    {
+        "scene_id": "scene0084_00",
+        "obj_id": 26,
+        "ref_captions": [
+            "<OBJ026>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is the trash can on the wall next to the toilet\"?"
+    },
+    {
+        "scene_id": "scene0084_00",
+        "obj_id": 27,
+        "ref_captions": [
+            "<OBJ027>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is the yellow sign\"?"
+    },
+    {
+        "scene_id": "scene0084_00",
+        "obj_id": 27,
+        "ref_captions": [
+            "<OBJ027>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is the sign on a wet floor\"."
+    },
+    {
+        "scene_id": "scene0084_00",
+        "obj_id": 40,
+        "ref_captions": [
+            "<OBJ040>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is to the left of the toilet seat cover dispenser\"."
+    },
+    {
+        "scene_id": "scene0086_00",
+        "obj_id": 7,
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is inside the comfort room\"?"
+    },
+    {
+        "scene_id": "scene0086_00",
+        "obj_id": 7,
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is inside the bathroom stall\"?"
+    },
+    {
+        "scene_id": "scene0086_00",
+        "obj_id": 9,
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is across from the trash can\"."
+    },
+    {
+        "scene_id": "scene0086_00",
+        "obj_id": 9,
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is the furthest door on the left side of the bathroom\"?"
+    },
+    {
+        "scene_id": "scene0086_00",
+        "obj_id": 21,
+        "ref_captions": [
+            "<OBJ021>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is the toilet paper dispenser\"?"
+    },
+    {
+        "scene_id": "scene0086_00",
+        "obj_id": 22,
+        "ref_captions": [
+            "<OBJ022>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is black on the left of the stall\"."
+    },
+    {
+        "scene_id": "scene0088_00",
+        "obj_id": 8,
+        "ref_captions": [
+            "<OBJ008>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is to the left of the door\"?"
+    },
+    {
+        "scene_id": "scene0088_00",
+        "obj_id": 14,
+        "ref_captions": [
+            "<OBJ014>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is the the left hand corner of the room\"."
+    },
+    {
+        "scene_id": "scene0088_00",
+        "obj_id": 17,
+        "ref_captions": [
+            "<OBJ017>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is against the wall\"."
+    },
+    {
+        "scene_id": "scene0088_00",
+        "obj_id": 28,
+        "ref_captions": [
+            "<OBJ028>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is in the center of the room\"."
+    },
+    {
+        "scene_id": "scene0088_00",
+        "obj_id": 28,
+        "ref_captions": [
+            "<OBJ028>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is in the middle of the room\"."
+    },
+    {
+        "scene_id": "scene0088_00",
+        "obj_id": 31,
+        "ref_captions": [
+            "<OBJ031>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is to the left of the trashcan\"."
+    },
+    {
+        "scene_id": "scene0088_00",
+        "obj_id": 31,
+        "ref_captions": [
+            "<OBJ031>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is closest to the door\"."
+    },
+    {
+        "scene_id": "scene0088_00",
+        "obj_id": 31,
+        "ref_captions": [
+            "<OBJ031>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is to the right of the door\"."
+    },
+    {
+        "scene_id": "scene0095_00",
+        "obj_id": 55,
+        "ref_captions": [
+            "<OBJ055>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is below a window\"."
+    },
+    {
+        "scene_id": "scene0100_00",
+        "obj_id": 8,
+        "ref_captions": [
+            "<OBJ008>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is below the towel hanging on the shower door\"?"
+    },
+    {
+        "scene_id": "scene0100_00",
+        "obj_id": 16,
+        "ref_captions": [
+            "<OBJ016>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is the door that allows access into and out of a room\"?"
+    },
+    {
+        "scene_id": "scene0131_00",
+        "obj_id": 0,
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is on top of the desk on the upper left corner of the room\"."
+    },
+    {
+        "scene_id": "scene0131_00",
+        "obj_id": 0,
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is the brown shelf facing\"."
+    },
+    {
+        "scene_id": "scene0131_00",
+        "obj_id": 0,
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is on the wall on the desk in the left hand corner\"."
+    },
+    {
+        "scene_id": "scene0131_00",
+        "obj_id": 5,
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is in front of the whiteboard\"."
+    },
+    {
+        "scene_id": "scene0131_00",
+        "obj_id": 11,
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is under the desk in front of the doorway\"?"
+    },
+    {
+        "scene_id": "scene0131_00",
+        "obj_id": 14,
+        "ref_captions": [
+            "<OBJ014>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is beside the desk's end on the right side of the room\"."
+    },
+    {
+        "scene_id": "scene0131_00",
+        "obj_id": 30,
+        "ref_captions": [
+            "<OBJ030>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is under the desk in the right corner\"."
+    },
+    {
+        "scene_id": "scene0139_00",
+        "obj_id": 24,
+        "ref_captions": [
+            "<OBJ024>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is placed on the corner of the washroom\"."
+    },
+    {
+        "scene_id": "scene0139_00",
+        "obj_id": 25,
+        "ref_captions": [
+            "<OBJ025>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is next to the silver clothes dryer\"?"
+    },
+    {
+        "scene_id": "scene0144_00",
+        "obj_id": 0,
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is to the left of a brown wooden desk and below the big window\"?"
+    },
+    {
+        "scene_id": "scene0144_00",
+        "obj_id": 9,
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is hanging on the wall above the desk\"."
+    },
+    {
+        "scene_id": "scene0144_00",
+        "obj_id": 19,
+        "ref_captions": [
+            "<OBJ019>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is on the wall of the house\"?"
+    },
+    {
+        "scene_id": "scene0146_00",
+        "obj_id": 0,
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is left of the toilet paper\"?"
+    },
+    {
+        "scene_id": "scene0146_00",
+        "obj_id": 6,
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is above the sink\"?"
+    },
+    {
+        "scene_id": "scene0149_00",
+        "obj_id": 0,
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is on the left of the trash can\"?"
+    },
+    {
+        "scene_id": "scene0149_00",
+        "obj_id": 12,
+        "ref_captions": [
+            "<OBJ012>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is on the right under the table\"."
+    },
+    {
+        "scene_id": "scene0149_00",
+        "obj_id": 13,
+        "ref_captions": [
+            "<OBJ013>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is above the stove\"?"
+    },
+    {
+        "scene_id": "scene0149_00",
+        "obj_id": 13,
+        "ref_captions": [
+            "<OBJ013>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is at the top of the stove\"."
+    },
+    {
+        "scene_id": "scene0149_00",
+        "obj_id": 14,
+        "ref_captions": [
+            "<OBJ014>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is left of the table\"."
+    },
+    {
+        "scene_id": "scene0149_00",
+        "obj_id": 14,
+        "ref_captions": [
+            "<OBJ014>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is on the right of the counter\"."
+    },
+    {
+        "scene_id": "scene0149_00",
+        "obj_id": 16,
+        "ref_captions": [
+            "<OBJ016>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is the item located in front of the window\"."
+    },
+    {
+        "scene_id": "scene0149_00",
+        "obj_id": 25,
+        "ref_captions": [
+            "<OBJ025>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is on a wall\"?"
+    },
+    {
+        "scene_id": "scene0153_00",
+        "obj_id": 1,
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is above the sink\"."
+    },
+    {
+        "scene_id": "scene0153_00",
+        "obj_id": 20,
+        "ref_captions": [
+            "<OBJ020>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is hanged on the shower curtain rod\"."
+    },
+    {
+        "scene_id": "scene0153_00",
+        "obj_id": 20,
+        "ref_captions": [
+            "<OBJ020>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is draped over the shower curtain rod\"."
+    },
+    {
+        "scene_id": "scene0164_00",
+        "obj_id": 8,
+        "ref_captions": [
+            "<OBJ008>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is located across a small hallway\"."
+    },
+    {
+        "scene_id": "scene0164_00",
+        "obj_id": 9,
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is above the white oven\"."
+    },
+    {
+        "scene_id": "scene0164_00",
+        "obj_id": 16,
+        "ref_captions": [
+            "<OBJ016>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is to the left of the water bottle\"."
+    },
+    {
+        "scene_id": "scene0164_00",
+        "obj_id": 16,
+        "ref_captions": [
+            "<OBJ016>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is the object between the wall and the cabinets\"."
+    },
+    {
+        "scene_id": "scene0164_00",
+        "obj_id": 25,
+        "ref_captions": [
+            "<OBJ025>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is the object behind a white towel\"."
+    },
+    {
+        "scene_id": "scene0169_00",
+        "obj_id": 2,
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is under a light brown table\"?"
+    },
+    {
+        "scene_id": "scene0169_00",
+        "obj_id": 6,
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is at the head of the table\"?"
+    },
+    {
+        "scene_id": "scene0169_00",
+        "obj_id": 9,
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is sitting above the brown cabinet\"."
+    },
+    {
+        "scene_id": "scene0169_00",
+        "obj_id": 10,
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is in the center of the room\"."
+    },
+    {
+        "scene_id": "scene0169_00",
+        "obj_id": 10,
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is the object surrounded with black office chairs.\"."
+    },
+    {
+        "scene_id": "scene0169_00",
+        "obj_id": 19,
+        "ref_captions": [
+            "<OBJ019>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is behind a brown wooden cabinet\"."
+    },
+    {
+        "scene_id": "scene0169_00",
+        "obj_id": 21,
+        "ref_captions": [
+            "<OBJ021>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is next to the large table\"."
+    },
+    {
+        "scene_id": "scene0169_00",
+        "obj_id": 21,
+        "ref_captions": [
+            "<OBJ021>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is the object that hangs on the wall\"?"
+    },
+    {
+        "scene_id": "scene0187_00",
+        "obj_id": 7,
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is the object that look like a long white rectangle\"."
+    },
+    {
+        "scene_id": "scene0187_00",
+        "obj_id": 14,
+        "ref_captions": [
+            "<OBJ014>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is the left chair at a long wooden table\"."
+    },
+    {
+        "scene_id": "scene0193_00",
+        "obj_id": 13,
+        "ref_captions": [
+            "<OBJ013>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is the purpose of the patio door\"?"
+    },
+    {
+        "scene_id": "scene0196_00",
+        "obj_id": 2,
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is in the middle of the two tables\"."
+    },
+    {
+        "scene_id": "scene0196_00",
+        "obj_id": 4,
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is next to the wall on the right\"."
+    },
+    {
+        "scene_id": "scene0196_00",
+        "obj_id": 6,
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is in the wall\"?"
+    },
+    {
+        "scene_id": "scene0196_00",
+        "obj_id": 6,
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is to the left of a large bullet shaped trash can\"."
+    },
+    {
+        "scene_id": "scene0196_00",
+        "obj_id": 6,
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is being held open by a trash can\"."
+    },
+    {
+        "scene_id": "scene0196_00",
+        "obj_id": 6,
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is supported by a trash can\"."
+    },
+    {
+        "scene_id": "scene0196_00",
+        "obj_id": 22,
+        "ref_captions": [
+            "<OBJ022>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is between a door and a table\"?"
+    },
+    {
+        "scene_id": "scene0196_00",
+        "obj_id": 22,
+        "ref_captions": [
+            "<OBJ022>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is holding the door open\"?"
+    },
+    {
+        "scene_id": "scene0203_00",
+        "obj_id": 4,
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is on the coffee table\"."
+    },
+    {
+        "scene_id": "scene0203_00",
+        "obj_id": 6,
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is to the right of the door\"."
+    },
+    {
+        "scene_id": "scene0203_00",
+        "obj_id": 17,
+        "ref_captions": [
+            "<OBJ017>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is the pillow on a pile of\"."
+    },
+    {
+        "scene_id": "scene0203_00",
+        "obj_id": 42,
+        "ref_captions": [
+            "<OBJ042>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is on the left of the gray armchair\"."
+    },
+    {
+        "scene_id": "scene0207_00",
+        "obj_id": 6,
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is the door of the refrigerator\"."
+    },
+    {
+        "scene_id": "scene0207_00",
+        "obj_id": 28,
+        "ref_captions": [
+            "<OBJ028>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is near the printer\"."
+    },
+    {
+        "scene_id": "scene0207_00",
+        "obj_id": 41,
+        "ref_captions": [
+            "<OBJ041>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is next to the couch\"."
+    },
+    {
+        "scene_id": "scene0207_00",
+        "obj_id": 43,
+        "ref_captions": [
+            "<OBJ043>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is in front of the table between the stools and the kitchen countertop\"?"
+    },
+    {
+        "scene_id": "scene0207_00",
+        "obj_id": 60,
+        "ref_captions": [
+            "<OBJ060>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is located above the toilet bowl\"."
+    },
+    {
+        "scene_id": "scene0207_00",
+        "obj_id": 63,
+        "ref_captions": [
+            "<OBJ063>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is pulled back to the back of the tub\"."
+    },
+    {
+        "scene_id": "scene0208_00",
+        "obj_id": 7,
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is on the left side of the room\"."
+    },
+    {
+        "scene_id": "scene0208_00",
+        "obj_id": 10,
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is the second rack stand in from the right\"."
+    },
+    {
+        "scene_id": "scene0208_00",
+        "obj_id": 11,
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is the second rack stand in from the left\"."
+    },
+    {
+        "scene_id": "scene0208_00",
+        "obj_id": 16,
+        "ref_captions": [
+            "<OBJ016>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is located to the left of the table\"."
+    },
+    {
+        "scene_id": "scene0208_00",
+        "obj_id": 17,
+        "ref_captions": [
+            "<OBJ017>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is to the left of the two rackstand at the center\"."
+    },
+    {
+        "scene_id": "scene0221_00",
+        "obj_id": 6,
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is next to the round table in the hotel room\"."
+    },
+    {
+        "scene_id": "scene0221_00",
+        "obj_id": 7,
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is in the middle of the room\"."
+    },
+    {
+        "scene_id": "scene0221_00",
+        "obj_id": 10,
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is the desk to the right of the office desk made from\"."
+    },
+    {
+        "scene_id": "scene0221_00",
+        "obj_id": 11,
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is on the right side of a cabinet that is left of the bathroom vanity\"."
+    },
+    {
+        "scene_id": "scene0221_00",
+        "obj_id": 11,
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is the object in the shelf next to the sink\"."
+    },
+    {
+        "scene_id": "scene0221_00",
+        "obj_id": 24,
+        "ref_captions": [
+            "<OBJ024>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is the object right of the rightmost bed\"?"
+    },
+    {
+        "scene_id": "scene0221_00",
+        "obj_id": 29,
+        "ref_captions": [
+            "<OBJ029>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is underneath a desk next to a cabinet at the side of the room\"?"
+    },
+    {
+        "scene_id": "scene0221_00",
+        "obj_id": 43,
+        "ref_captions": [
+            "<OBJ043>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is the object that has a lamp resting on it\"."
+    },
+    {
+        "scene_id": "scene0222_00",
+        "obj_id": 0,
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is to the left of the bed\"."
+    },
+    {
+        "scene_id": "scene0222_00",
+        "obj_id": 7,
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is the desk chair covered in\"?"
+    },
+    {
+        "scene_id": "scene0222_00",
+        "obj_id": 7,
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is the desk chair covered with\"."
+    },
+    {
+        "scene_id": "scene0222_00",
+        "obj_id": 7,
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is hanging over a chair in front of a desk without a fan\"."
+    },
+    {
+        "scene_id": "scene0222_00",
+        "obj_id": 24,
+        "ref_captions": [
+            "<OBJ024>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is present on the left side of the door\"?"
+    },
+    {
+        "scene_id": "scene0231_00",
+        "obj_id": 2,
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is located in the middle of the two rooms\"."
+    },
+    {
+        "scene_id": "scene0231_00",
+        "obj_id": 3,
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is in the center of the room\"."
+    },
+    {
+        "scene_id": "scene0231_00",
+        "obj_id": 3,
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is on the kitchen island in the center of the room\"."
+    },
+    {
+        "scene_id": "scene0231_00",
+        "obj_id": 10,
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is on top of the pattered sofa\"?"
+    },
+    {
+        "scene_id": "scene0231_00",
+        "obj_id": 20,
+        "ref_captions": [
+            "<OBJ020>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is hanging on the wall to the left of the window\"?"
+    },
+    {
+        "scene_id": "scene0231_00",
+        "obj_id": 20,
+        "ref_captions": [
+            "<OBJ020>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is on the side of the room to the left of the window\"?"
+    },
+    {
+        "scene_id": "scene0231_00",
+        "obj_id": 22,
+        "ref_captions": [
+            "<OBJ022>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is sitting on the floor on the lower left side of the desk\"?"
+    },
+    {
+        "scene_id": "scene0231_00",
+        "obj_id": 22,
+        "ref_captions": [
+            "<OBJ022>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is to the right of the armchair in front of the window\"."
+    },
+    {
+        "scene_id": "scene0231_00",
+        "obj_id": 28,
+        "ref_captions": [
+            "<OBJ028>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is in front of the desk\"."
+    },
+    {
+        "scene_id": "scene0231_00",
+        "obj_id": 31,
+        "ref_captions": [
+            "<OBJ031>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is mounted on the wall above the trash can\"."
+    },
+    {
+        "scene_id": "scene0231_00",
+        "obj_id": 61,
+        "ref_captions": [
+            "<OBJ061>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is on the far wall on the right above the kitchen counter\"."
+    },
+    {
+        "scene_id": "scene0231_00",
+        "obj_id": 63,
+        "ref_captions": [
+            "<OBJ063>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is to the left of the stove\"."
+    },
+    {
+        "scene_id": "scene0231_00",
+        "obj_id": 74,
+        "ref_captions": [
+            "<OBJ074>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is the door left of the refrigerator\"?"
+    },
+    {
+        "scene_id": "scene0231_00",
+        "obj_id": 84,
+        "ref_captions": [
+            "<OBJ084>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is the object behind the lamp shadow wall\"?"
+    },
+    {
+        "scene_id": "scene0246_00",
+        "obj_id": 3,
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is above the table\"."
+    },
+    {
+        "scene_id": "scene0246_00",
+        "obj_id": 10,
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is the dresser up against\"?"
+    },
+    {
+        "scene_id": "scene0246_00",
+        "obj_id": 11,
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is on the wall near the toilet\"."
+    },
+    {
+        "scene_id": "scene0249_00",
+        "obj_id": 22,
+        "ref_captions": [
+            "<OBJ022>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is left of the folded table\"?"
+    },
+    {
+        "scene_id": "scene0249_00",
+        "obj_id": 24,
+        "ref_captions": [
+            "<OBJ024>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is in the center of the room\"?"
+    },
+    {
+        "scene_id": "scene0249_00",
+        "obj_id": 25,
+        "ref_captions": [
+            "<OBJ025>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is left of the trash can\"?"
+    },
+    {
+        "scene_id": "scene0251_00",
+        "obj_id": 8,
+        "ref_captions": [
+            "<OBJ008>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is left beside the door\"."
+    },
+    {
+        "scene_id": "scene0251_00",
+        "obj_id": 16,
+        "ref_captions": [
+            "<OBJ016>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is the table underneath the windows\"."
+    },
+    {
+        "scene_id": "scene0251_00",
+        "obj_id": 17,
+        "ref_captions": [
+            "<OBJ017>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is the surface of the standing semi-circular wooden object\"."
+    },
+    {
+        "scene_id": "scene0251_00",
+        "obj_id": 19,
+        "ref_captions": [
+            "<OBJ019>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is above the rectangular table on the right\"."
+    },
+    {
+        "scene_id": "scene0256_00",
+        "obj_id": 0,
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is near the side of the room and has a sewing machine on it\"."
+    },
+    {
+        "scene_id": "scene0256_00",
+        "obj_id": 0,
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is on the white table near the side of the room\"."
+    },
+    {
+        "scene_id": "scene0256_00",
+        "obj_id": 9,
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is present near the table on the left\"."
+    },
+    {
+        "scene_id": "scene0256_00",
+        "obj_id": 11,
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is on the bottom rung of the clothing rack\"."
+    },
+    {
+        "scene_id": "scene0257_00",
+        "obj_id": 6,
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is the wooden thing beside the purple chair\"?"
+    },
+    {
+        "scene_id": "scene0257_00",
+        "obj_id": 10,
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is the second left-most in the front row\"?"
+    },
+    {
+        "scene_id": "scene0257_00",
+        "obj_id": 14,
+        "ref_captions": [
+            "<OBJ014>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is the fourth desk in the front row from the right\"."
+    },
+    {
+        "scene_id": "scene0257_00",
+        "obj_id": 32,
+        "ref_captions": [
+            "<OBJ032>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is on the left side of a black board\"."
+    },
+    {
+        "scene_id": "scene0257_00",
+        "obj_id": 34,
+        "ref_captions": [
+            "<OBJ034>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is behind the purple chair\"."
+    },
+    {
+        "scene_id": "scene0277_00",
+        "obj_id": 1,
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is the bed made from\"?"
+    },
+    {
+        "scene_id": "scene0277_00",
+        "obj_id": 12,
+        "ref_captions": [
+            "<OBJ012>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is attached to the wall under the window\"?"
+    },
+    {
+        "scene_id": "scene0278_00",
+        "obj_id": 4,
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is between a chair and copier\"."
+    },
+    {
+        "scene_id": "scene0300_00",
+        "obj_id": 6,
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is to the right of the windows\"."
+    },
+    {
+        "scene_id": "scene0300_00",
+        "obj_id": 9,
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is present in front of the divider\"."
+    },
+    {
+        "scene_id": "scene0307_00",
+        "obj_id": 22,
+        "ref_captions": [
+            "<OBJ022>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is the cabinet to the right of the refrigerator\"?"
+    },
+    {
+        "scene_id": "scene0314_00",
+        "obj_id": 6,
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is next to some chairs and has lamps on it\"."
+    },
+    {
+        "scene_id": "scene0316_00",
+        "obj_id": 2,
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is next to the white interior door\"."
+    },
+    {
+        "scene_id": "scene0316_00",
+        "obj_id": 6,
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is to the left of the ottoman next to a round table\"?"
+    },
+    {
+        "scene_id": "scene0316_00",
+        "obj_id": 7,
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is placed on top of a table in the corner\"?"
+    },
+    {
+        "scene_id": "scene0316_00",
+        "obj_id": 7,
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is next to the ottoman\"."
+    },
+    {
+        "scene_id": "scene0316_00",
+        "obj_id": 15,
+        "ref_captions": [
+            "<OBJ015>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is on the wall next to the brown chair\"."
+    },
+    {
+        "scene_id": "scene0328_00",
+        "obj_id": 1,
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is located above the sink\"."
+    },
+    {
+        "scene_id": "scene0328_00",
+        "obj_id": 1,
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is set above the kitchen sink\"?"
+    },
+    {
+        "scene_id": "scene0328_00",
+        "obj_id": 1,
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is located between the two cabinets on the wall\"."
+    },
+    {
+        "scene_id": "scene0328_00",
+        "obj_id": 8,
+        "ref_captions": [
+            "<OBJ008>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is built in to the counter\"."
+    },
+    {
+        "scene_id": "scene0328_00",
+        "obj_id": 24,
+        "ref_captions": [
+            "<OBJ024>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is next to the oven\"."
+    },
+    {
+        "scene_id": "scene0329_00",
+        "obj_id": 1,
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is laying on the left side when facing the couch\"."
+    },
+    {
+        "scene_id": "scene0329_00",
+        "obj_id": 11,
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is in between the two desks on the left\"?"
+    },
+    {
+        "scene_id": "scene0329_00",
+        "obj_id": 21,
+        "ref_captions": [
+            "<OBJ021>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is taped to the left of the door\"?"
+    },
+    {
+        "scene_id": "scene0329_00",
+        "obj_id": 25,
+        "ref_captions": [
+            "<OBJ025>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is placed next to the door\"."
+    },
+    {
+        "scene_id": "scene0329_00",
+        "obj_id": 34,
+        "ref_captions": [
+            "<OBJ034>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is pushed into the desk\"?"
+    },
+    {
+        "scene_id": "scene0329_00",
+        "obj_id": 37,
+        "ref_captions": [
+            "<OBJ037>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is the black chair facing\"?"
+    },
+    {
+        "scene_id": "scene0329_00",
+        "obj_id": 41,
+        "ref_captions": [
+            "<OBJ041>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is on the wooden door with a metal handle\"."
+    },
+    {
+        "scene_id": "scene0329_00",
+        "obj_id": 41,
+        "ref_captions": [
+            "<OBJ041>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is next to a white board with pictures on it\"."
+    },
+    {
+        "scene_id": "scene0329_00",
+        "obj_id": 41,
+        "ref_captions": [
+            "<OBJ041>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is to the left of the whiteboard\"."
+    },
+    {
+        "scene_id": "scene0334_00",
+        "obj_id": 5,
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is in front of the round couch\"."
+    },
+    {
+        "scene_id": "scene0338_00",
+        "obj_id": 15,
+        "ref_captions": [
+            "<OBJ015>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is the gray cabinet on the wall over\"?"
+    },
+    {
+        "scene_id": "scene0338_00",
+        "obj_id": 15,
+        "ref_captions": [
+            "<OBJ015>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is the gray cabinet next to\"."
+    },
+    {
+        "scene_id": "scene0342_00",
+        "obj_id": 3,
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is the furthest to the right in the third row\"."
+    },
+    {
+        "scene_id": "scene0342_00",
+        "obj_id": 5,
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is the object in the room with a red bag on it\"."
+    },
+    {
+        "scene_id": "scene0342_00",
+        "obj_id": 5,
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is in front of a whiteboard\"?"
+    },
+    {
+        "scene_id": "scene0342_00",
+        "obj_id": 6,
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is it on the wall in front of the room\"."
+    },
+    {
+        "scene_id": "scene0342_00",
+        "obj_id": 6,
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is on the wall in the front of a lecture hall\"?"
+    },
+    {
+        "scene_id": "scene0342_00",
+        "obj_id": 6,
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is near a table with a red bag on it\"?"
+    },
+    {
+        "scene_id": "scene0342_00",
+        "obj_id": 13,
+        "ref_captions": [
+            "<OBJ013>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is the second chair from the right in the first row in a conference room\"."
+    },
+    {
+        "scene_id": "scene0342_00",
+        "obj_id": 14,
+        "ref_captions": [
+            "<OBJ014>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is the furthest chair on the right in the front row\"?"
+    },
+    {
+        "scene_id": "scene0342_00",
+        "obj_id": 16,
+        "ref_captions": [
+            "<OBJ016>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is the second chair from the right in the second row\"?"
+    },
+    {
+        "scene_id": "scene0343_00",
+        "obj_id": 3,
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is the white chairs facing\"."
+    },
+    {
+        "scene_id": "scene0343_00",
+        "obj_id": 6,
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is next to a blue cart\"."
+    },
+    {
+        "scene_id": "scene0343_00",
+        "obj_id": 16,
+        "ref_captions": [
+            "<OBJ016>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is next to a table with a white countertop\"."
+    },
+    {
+        "scene_id": "scene0351_00",
+        "obj_id": 2,
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is the closest chair to the window\"."
+    },
+    {
+        "scene_id": "scene0351_00",
+        "obj_id": 16,
+        "ref_captions": [
+            "<OBJ016>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is hanging on the wall of the room\"."
+    },
+    {
+        "scene_id": "scene0351_00",
+        "obj_id": 16,
+        "ref_captions": [
+            "<OBJ016>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is on the wall and faces a table\"."
+    },
+    {
+        "scene_id": "scene0353_00",
+        "obj_id": 14,
+        "ref_captions": [
+            "<OBJ014>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is on top of the mini fridge\"?"
+    },
+    {
+        "scene_id": "scene0353_00",
+        "obj_id": 16,
+        "ref_captions": [
+            "<OBJ016>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is to the left of the bookshelf on the floor\"."
+    },
+    {
+        "scene_id": "scene0353_00",
+        "obj_id": 30,
+        "ref_captions": [
+            "<OBJ030>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is hanging on one door of the wordrobe\"?"
+    },
+    {
+        "scene_id": "scene0353_00",
+        "obj_id": 30,
+        "ref_captions": [
+            "<OBJ030>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is thrown over the wardrobe cabinet\"."
+    },
+    {
+        "scene_id": "scene0353_00",
+        "obj_id": 47,
+        "ref_captions": [
+            "<OBJ047>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is the bed made from\"."
+    },
+    {
+        "scene_id": "scene0354_00",
+        "obj_id": 13,
+        "ref_captions": [
+            "<OBJ013>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is the object located in the center of the room\"."
+    },
+    {
+        "scene_id": "scene0354_00",
+        "obj_id": 13,
+        "ref_captions": [
+            "<OBJ013>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is in the middle of the room\"."
+    },
+    {
+        "scene_id": "scene0354_00",
+        "obj_id": 15,
+        "ref_captions": [
+            "<OBJ015>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is on the floor against the wall\"?"
+    },
+    {
+        "scene_id": "scene0356_00",
+        "obj_id": 8,
+        "ref_captions": [
+            "<OBJ008>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is at the head of a bed\"?"
+    },
+    {
+        "scene_id": "scene0356_00",
+        "obj_id": 10,
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is behind the black work chair in a small bedroom\"."
+    },
+    {
+        "scene_id": "scene0356_00",
+        "obj_id": 10,
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is in front of the desk\"?"
+    },
+    {
+        "scene_id": "scene0356_00",
+        "obj_id": 15,
+        "ref_captions": [
+            "<OBJ015>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is near the door\"."
+    },
+    {
+        "scene_id": "scene0356_00",
+        "obj_id": 15,
+        "ref_captions": [
+            "<OBJ015>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is next to the rectangular brownd door\"?"
+    },
+    {
+        "scene_id": "scene0356_00",
+        "obj_id": 17,
+        "ref_captions": [
+            "<OBJ017>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is the middle bin on top of a table\"."
+    },
+    {
+        "scene_id": "scene0356_00",
+        "obj_id": 17,
+        "ref_captions": [
+            "<OBJ017>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is the trash bin made of on top of the table\"."
+    },
+    {
+        "scene_id": "scene0357_00",
+        "obj_id": 2,
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is the shelf next to\"?"
+    },
+    {
+        "scene_id": "scene0357_00",
+        "obj_id": 11,
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is the table at the end of the stairs\"?"
+    },
+    {
+        "scene_id": "scene0357_00",
+        "obj_id": 30,
+        "ref_captions": [
+            "<OBJ030>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is the towel hanging from\"."
+    },
+    {
+        "scene_id": "scene0377_00",
+        "obj_id": 1,
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is on the floor to the left of the wooden rack\"."
+    },
+    {
+        "scene_id": "scene0377_00",
+        "obj_id": 2,
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is the large blue item\"."
+    },
+    {
+        "scene_id": "scene0377_00",
+        "obj_id": 3,
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is a shelf\"?"
+    },
+    {
+        "scene_id": "scene0377_00",
+        "obj_id": 3,
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is attached to the wall\"."
+    },
+    {
+        "scene_id": "scene0377_00",
+        "obj_id": 3,
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is located on the wall close to the center of the wall\"?"
+    },
+    {
+        "scene_id": "scene0377_00",
+        "obj_id": 5,
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is attached to a wall on the left side of the chair\"."
+    },
+    {
+        "scene_id": "scene0377_00",
+        "obj_id": 5,
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is installed on the wall\"."
+    },
+    {
+        "scene_id": "scene0377_00",
+        "obj_id": 9,
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is in left corner of furnace\"."
+    },
+    {
+        "scene_id": "scene0377_00",
+        "obj_id": 18,
+        "ref_captions": [
+            "<OBJ018>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is installed to the left of a shelf\"."
+    },
+    {
+        "scene_id": "scene0377_00",
+        "obj_id": 21,
+        "ref_captions": [
+            "<OBJ021>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is the towel hanging from on the right side of the room\"?"
+    },
+    {
+        "scene_id": "scene0377_00",
+        "obj_id": 21,
+        "ref_captions": [
+            "<OBJ021>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is hanging on a bar to the right of a blue furnace\"?"
+    },
+    {
+        "scene_id": "scene0378_00",
+        "obj_id": 19,
+        "ref_captions": [
+            "<OBJ019>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is on square brown chair by blackboard\"."
+    },
+    {
+        "scene_id": "scene0378_00",
+        "obj_id": 24,
+        "ref_captions": [
+            "<OBJ024>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is high up on the wall\"?"
+    },
+    {
+        "scene_id": "scene0378_00",
+        "obj_id": 38,
+        "ref_captions": [
+            "<OBJ038>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is on the right of the file cabinet\"."
+    },
+    {
+        "scene_id": "scene0378_00",
+        "obj_id": 42,
+        "ref_captions": [
+            "<OBJ042>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is sitting under the desk\"."
+    },
+    {
+        "scene_id": "scene0378_00",
+        "obj_id": 42,
+        "ref_captions": [
+            "<OBJ042>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is in front of the bookshelf\"?"
+    },
+    {
+        "scene_id": "scene0382_00",
+        "obj_id": 4,
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is in between the door and the desk\"."
+    },
+    {
+        "scene_id": "scene0389_00",
+        "obj_id": 5,
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is the cabinet facing\"."
+    },
+    {
+        "scene_id": "scene0389_00",
+        "obj_id": 6,
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is under the top of a cabinet\"?"
+    },
+    {
+        "scene_id": "scene0389_00",
+        "obj_id": 9,
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is on top of a cabinet\"."
+    },
+    {
+        "scene_id": "scene0389_00",
+        "obj_id": 13,
+        "ref_captions": [
+            "<OBJ013>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is the object to left of narrow door on wall\"."
+    },
+    {
+        "scene_id": "scene0389_00",
+        "obj_id": 21,
+        "ref_captions": [
+            "<OBJ021>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is the object located on the left side of the window\"."
+    },
+    {
+        "scene_id": "scene0406_00",
+        "obj_id": 5,
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is behind a shower curtain\"."
+    },
+    {
+        "scene_id": "scene0406_00",
+        "obj_id": 7,
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is on the floor to the left of the toilet\"."
+    },
+    {
+        "scene_id": "scene0406_00",
+        "obj_id": 8,
+        "ref_captions": [
+            "<OBJ008>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is above a bin\"."
+    },
+    {
+        "scene_id": "scene0406_00",
+        "obj_id": 20,
+        "ref_captions": [
+            "<OBJ020>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is sitting on top of the toilet tank lid\"?"
+    },
+    {
+        "scene_id": "scene0406_00",
+        "obj_id": 20,
+        "ref_captions": [
+            "<OBJ020>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is on top of the toilet tank\"."
+    },
+    {
+        "scene_id": "scene0406_00",
+        "obj_id": 20,
+        "ref_captions": [
+            "<OBJ020>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is on the back of the toilet\"."
+    },
+    {
+        "scene_id": "scene0406_00",
+        "obj_id": 23,
+        "ref_captions": [
+            "<OBJ023>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is the door in a bathroom\"?"
+    },
+    {
+        "scene_id": "scene0406_00",
+        "obj_id": 29,
+        "ref_captions": [
+            "<OBJ029>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is hanging in the bathroom\"."
+    },
+    {
+        "scene_id": "scene0406_00",
+        "obj_id": 29,
+        "ref_captions": [
+            "<OBJ029>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is hanging next to the shower curtain\"?"
+    },
+    {
+        "scene_id": "scene0412_00",
+        "obj_id": 8,
+        "ref_captions": [
+            "<OBJ008>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is to the right of the double doors and on the floor\"."
+    },
+    {
+        "scene_id": "scene0412_00",
+        "obj_id": 9,
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is next to the double doors\"."
+    },
+    {
+        "scene_id": "scene0412_00",
+        "obj_id": 11,
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is used to clean the sink\"?"
+    },
+    {
+        "scene_id": "scene0412_00",
+        "obj_id": 19,
+        "ref_captions": [
+            "<OBJ019>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is to the right of the trash can\"."
+    },
+    {
+        "scene_id": "scene0412_00",
+        "obj_id": 19,
+        "ref_captions": [
+            "<OBJ019>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is the object behind a trash can\"."
+    },
+    {
+        "scene_id": "scene0412_00",
+        "obj_id": 30,
+        "ref_captions": [
+            "<OBJ030>."
+        ],
+        "prompt": "Identify the ID of the object that closely resembles the description \"The object is piled up beside the table on the right\"."
+    },
+    {
+        "scene_id": "scene0414_00",
+        "obj_id": 1,
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is the second chair from the right by trash can\"."
+    },
+    {
+        "scene_id": "scene0414_00",
+        "obj_id": 24,
+        "ref_captions": [
+            "<OBJ024>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is next to the chair of the left of the doorway\"."
+    },
+    {
+        "scene_id": "scene0414_00",
+        "obj_id": 25,
+        "ref_captions": [
+            "<OBJ025>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is above the cabinet\"."
+    },
+    {
+        "scene_id": "scene0414_00",
+        "obj_id": 26,
+        "ref_captions": [
+            "<OBJ026>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is at the end of a row of chairs\"."
+    },
+    {
+        "scene_id": "scene0414_00",
+        "obj_id": 27,
+        "ref_captions": [
+            "<OBJ027>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is in the center of the room\"."
+    },
+    {
+        "scene_id": "scene0414_00",
+        "obj_id": 33,
+        "ref_captions": [
+            "<OBJ033>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is on the chair\"?"
+    },
+    {
+        "scene_id": "scene0426_00",
+        "obj_id": 1,
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "prompt": "Share the ID of the object that best fits the description \"The object is between the two chairs\"."
+    },
+    {
+        "scene_id": "scene0426_00",
+        "obj_id": 12,
+        "ref_captions": [
+            "<OBJ012>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is next to the organizer shelf\"?"
+    },
+    {
+        "scene_id": "scene0426_00",
+        "obj_id": 14,
+        "ref_captions": [
+            "<OBJ014>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is on the same wall as the bed\"?"
+    },
+    {
+        "scene_id": "scene0426_00",
+        "obj_id": 16,
+        "ref_captions": [
+            "<OBJ016>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is on the left side of the brown desk\"?"
+    },
+    {
+        "scene_id": "scene0426_00",
+        "obj_id": 36,
+        "ref_captions": [
+            "<OBJ036>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is the item located at the end of the room on top of the dresser in front of the beds\"?"
+    },
+    {
+        "scene_id": "scene0426_00",
+        "obj_id": 41,
+        "ref_captions": [
+            "<OBJ041>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is hanging on the wall\"."
+    },
+    {
+        "scene_id": "scene0426_00",
+        "obj_id": 41,
+        "ref_captions": [
+            "<OBJ041>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is behind the squared picture\"?"
+    },
+    {
+        "scene_id": "scene0427_00",
+        "obj_id": 0,
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is in front of a window\"."
+    },
+    {
+        "scene_id": "scene0427_00",
+        "obj_id": 0,
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is next to the glass panel window\"?"
+    },
+    {
+        "scene_id": "scene0427_00",
+        "obj_id": 8,
+        "ref_captions": [
+            "<OBJ008>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is on the wooden surface in the corner\"."
+    },
+    {
+        "scene_id": "scene0427_00",
+        "obj_id": 9,
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is in the center of the room\"?"
+    },
+    {
+        "scene_id": "scene0430_00",
+        "obj_id": 22,
+        "ref_captions": [
+            "<OBJ022>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is hanging down on the right center wall\"."
+    },
+    {
+        "scene_id": "scene0432_00",
+        "obj_id": 1,
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is the second chair from the window\"."
+    },
+    {
+        "scene_id": "scene0435_00",
+        "obj_id": 4,
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is underneath the painting\"."
+    },
+    {
+        "scene_id": "scene0435_00",
+        "obj_id": 4,
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is underneath the black and white picture\"."
+    },
+    {
+        "scene_id": "scene0435_00",
+        "obj_id": 5,
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is behind the mini fridge\"."
+    },
+    {
+        "scene_id": "scene0435_00",
+        "obj_id": 7,
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is in the corner next to the bed\"?"
+    },
+    {
+        "scene_id": "scene0435_00",
+        "obj_id": 10,
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "prompt": "Identify the ID of the object that closely aligns with the description \"The object is the suitcase next to\"."
+    },
+    {
+        "scene_id": "scene0435_00",
+        "obj_id": 11,
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is the bed on the left\"."
+    },
+    {
+        "scene_id": "scene0435_00",
+        "obj_id": 24,
+        "ref_captions": [
+            "<OBJ024>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is above the sink and on the wall\"?"
+    },
+    {
+        "scene_id": "scene0435_00",
+        "obj_id": 30,
+        "ref_captions": [
+            "<OBJ030>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is on top of the toilet\"?"
+    },
+    {
+        "scene_id": "scene0435_00",
+        "obj_id": 30,
+        "ref_captions": [
+            "<OBJ030>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is sitting on the toilet\"?"
+    },
+    {
+        "scene_id": "scene0435_00",
+        "obj_id": 32,
+        "ref_captions": [
+            "<OBJ032>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is next to the white toilet\"?"
+    },
+    {
+        "scene_id": "scene0435_00",
+        "obj_id": 32,
+        "ref_captions": [
+            "<OBJ032>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is on the left of the white toilet\"?"
+    },
+    {
+        "scene_id": "scene0435_00",
+        "obj_id": 33,
+        "ref_captions": [
+            "<OBJ033>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is on the right of the white toilet\"."
+    },
+    {
+        "scene_id": "scene0435_00",
+        "obj_id": 38,
+        "ref_captions": [
+            "<OBJ038>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is the lamp in the middle of the beds\"."
+    },
+    {
+        "scene_id": "scene0435_00",
+        "obj_id": 38,
+        "ref_captions": [
+            "<OBJ038>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is on the nightstand\"?"
+    },
+    {
+        "scene_id": "scene0435_00",
+        "obj_id": 38,
+        "ref_captions": [
+            "<OBJ038>."
+        ],
+        "prompt": "Kindly provide the ID of the object that closely matches the description \"The object is on the night table\"."
+    },
+    {
+        "scene_id": "scene0435_00",
+        "obj_id": 39,
+        "ref_captions": [
+            "<OBJ039>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is on the right side of the bed\"?"
+    },
+    {
+        "scene_id": "scene0435_00",
+        "obj_id": 50,
+        "ref_captions": [
+            "<OBJ050>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is in between the curtains\"?"
+    },
+    {
+        "scene_id": "scene0435_00",
+        "obj_id": 57,
+        "ref_captions": [
+            "<OBJ057>."
+        ],
+        "prompt": "What is the ID of the object that matches the description \"The object is hanging above the desk\"?"
+    },
+    {
+        "scene_id": "scene0435_00",
+        "obj_id": 57,
+        "ref_captions": [
+            "<OBJ057>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is hanging above the brown desk above the tv\"."
+    },
+    {
+        "scene_id": "scene0435_00",
+        "obj_id": 57,
+        "ref_captions": [
+            "<OBJ057>."
+        ],
+        "prompt": "What's the ID of the object that corresponds to the description \"The object is hanging to the right of the tv\"?"
+    },
+    {
+        "scene_id": "scene0435_00",
+        "obj_id": 59,
+        "ref_captions": [
+            "<OBJ059>."
+        ],
+        "prompt": "What is the ID of the object that aligns with the description \"The object is facing towards a desk\"?"
+    },
+    {
+        "scene_id": "scene0435_00",
+        "obj_id": 62,
+        "ref_captions": [
+            "<OBJ062>."
+        ],
+        "prompt": "Share the ID of the object that best corresponds to the description \"The object is the object of a flat screen tv\"."
+    },
+    {
+        "scene_id": "scene0441_00",
+        "obj_id": 7,
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "prompt": "Give the ID of the object that most accurately describes the description \"The object is next to the sink\"."
+    }
+]

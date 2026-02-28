@@ -1,0 +1,15 @@
+pandas==1.5.3
+transformers==4.39.3
+einops==0.6.1
+plyfile==1.0.1
+trimesh==3.23.1
+peft==0.9.0
+termcolor==2.3.0
+scipy==1.12.0
+pycocoevalcap==1.2
+sentencepiece==0.2.0
+protobuf==4.25.3
+packaging==24.0
+mmengine==0.10.3
+wandb==0.25.0
+bitsandbytes==0.48.2
