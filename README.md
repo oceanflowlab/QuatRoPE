@@ -1,7 +1,7 @@
 <h1 align="center">QuatRoPE</h1>
 
 <p align="center">
-    <a href='https://arxiv.org/abs/'>
+    <a href='http://arxiv.org/abs/2603.24721'>
       <img src='https://img.shields.io/badge/Paper-arXiv-red?style=plastic&logo=arXiv&logoColor=red' alt='Paper arXiv'>
     </a>
     <a href='https://fz-zsl.github.io/quatrope'>
@@ -93,6 +93,14 @@ We would like to thank the open-source code base of [3DGraphLLM](https://github.
 
 If you find this project useful in your research, please consider citing:
 
-```bib
-
+```bibtex
+@misc{zhou2026scalableobjectrelationencoding,
+      title={Scalable Object Relation Encoding for Better 3D Spatial Reasoning in Large Language Models}, 
+      author={Shengli Zhou and Minghang Zheng and Feng Zheng and Yang Liu},
+      year={2026},
+      eprint={2603.24721},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.24721}, 
+}
 ```
