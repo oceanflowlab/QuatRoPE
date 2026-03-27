@@ -95,7 +95,7 @@ val_file_dict = {
         gt_feat_file,
         gt_img_feat_file,
         gt_val_attr_file,
-        f"{anno_root}/scanqa_scanrefer_gt_val{version}.json",
+        f"{anno_root}/asr_gt_val{version}.json",
         gt_val_gnn_file,
         f"gt",
     ],

@@ -88,6 +88,6 @@ for split in ["val"]:
     print(len(new_annos))
     print(count)
 
-    with open(f"annotations/scanqa_scanrefer_{segmentor}_{split}{version}.json", "w") as f:
+    with open(f"annotations/asr_{segmentor}_{split}{version}.json", "w") as f:
         json.dump(new_annos, f, indent=4)
 
