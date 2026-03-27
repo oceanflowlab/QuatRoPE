@@ -1,7 +1,7 @@
 <h1 align="center">QuatRoPE</h1>
 
 <p align="center">
-    <a href='https://arxiv.org/abs/'>
+    <a href='https://arxiv.org/abs/2603.24721'>
       <img src='https://img.shields.io/badge/Paper-arXiv-red?style=plastic&logo=arXiv&logoColor=red' alt='Paper arXiv'>
     </a>
     <a href='https://fz-zsl.github.io/quatrope'>
@@ -37,7 +37,7 @@ conda install -c conda-forge openjdk
 
 2. Download and install [flash attention](https://github.com/Dao-AILab/flash-attention/releases), we use v2.8.3 in our environment.
 3. Download LLM backbone from [Hugging Face](https://huggingface.co/lmsys/vicuna-7b-v1.5), and modify `llama_model_path` in the bash scripts in the `scripts/` directory.
-4. Download annotations from [Hugging Face](https://huggingface.co/datasets/ZzZZCHS/Chat-Scene/tree/main/annotations) AND [Yandex Disk](https://disk.yandex.ru/d/LpPJgHg8Qg6BpA) and place them in the `annotations/` directory, more details for data preparation can be found [here](https://github.com/CognitiveAISystems/3DGraphLLM/tree/main/preprocess).
+4. Download annotations from [Hugging Face](https://huggingface.co/datasets/ZzZZCHS/Chat-Scene/tree/main/annotations) AND [Yandex Disk](https://disk.yandex.ru/d/LpPJgHg8Qg6BpA) and place them in the `annotations/` directory. More details for data preparation can be found [here](https://github.com/CognitiveAISystems/3DGraphLLM/tree/main/preprocess).
 5. Replace `(env_base_path)/lib/python3.9/site-packages/transformers/generation/utils.py` with `generation/utils.py`. `(env_base_path)` can be found by running `conda env list` in the terminal (use the path corresponding to the `quatrope` environment).
 
 ### ASR Benchmark
@@ -94,5 +94,13 @@ We would like to thank the open-source code base of [3DGraphLLM](https://github.
 If you find this project useful in your research, please consider citing:
 
 ```bib
-
+@misc{zhou2026scalableobjectrelationencoding,
+      title={Scalable Object Relation Encoding for Better 3D Spatial Reasoning in Large Language Models}, 
+      author={Shengli Zhou and Minghang Zheng and Feng Zheng and Yang Liu},
+      year={2026},
+      eprint={2603.24721},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.24721}, 
+}
 ```
