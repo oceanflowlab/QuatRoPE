@@ -8,7 +8,10 @@
       <img src='https://img.shields.io/badge/Project-Page-blue?style=plastic&logo=Google%20chrome&logoColor=blue' alt='Project Page'>
     </a>
     <a href='https://huggingface.co/fzzsl/QuatRoPE/tree/main'>
-      <img src='https://img.shields.io/badge/Model-Checkpoints-yellow?style=plastic&logo=huggingface&logoColor=yellow' alt='Checkpoints'>
+      <img src='https://img.shields.io/badge/Checkpoints-HF-yellow?style=plastic&logo=huggingface&logoColor=yellow' alt='Checkpoints'>
+    </a>
+    <a href='https://huggingface.co/fzzsl/QuatRoPE/tree/main'>
+      <img src='https://img.shields.io/badge/ASR%20Benchmark-HF-yellow?style=plastic&logo=huggingface&logoColor=yellow' alt='Benchmark'>
     </a>
 </p>
 
