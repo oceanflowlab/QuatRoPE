@@ -40,7 +40,7 @@ conda install -c conda-forge openjdk
 
 2. Download and install [flash attention](https://github.com/Dao-AILab/flash-attention/releases), we use v2.8.3 in our environment.
 3. Download LLM backbone from [Hugging Face](https://huggingface.co/lmsys/vicuna-7b-v1.5), and modify `llama_model_path` in the bash scripts in the `scripts/` directory.
-4. Download annotations from [Hugging Face](https://huggingface.co/datasets/ZzZZCHS/Chat-Scene/tree/main/annotations) AND [Yandex Disk](https://disk.yandex.ru/d/LpPJgHg8Qg6BpA) and place them in the `annotations/` directory. More details for data preparation can be found [here](https://github.com/CognitiveAISystems/3DGraphLLM/tree/main/preprocess).
+4. Download annotations from [Hugging Face](https://huggingface.co/datasets/ZzZZCHS/Chat-Scene/tree/main/annotations) AND [Yandex Disk](https://disk.yandex.ru/d/LpPJgHg8Qg6BpA) and place them in the `annotations/` directory. Generate `obj_align_gt_train.json` using `python preprocess/prepare_objalign_annos.py --segmentor gt`. More details for data preparation can be found [here](https://github.com/CognitiveAISystems/3DGraphLLM/tree/main/preprocess).
 5. Replace `(env_base_path)/lib/python3.9/site-packages/transformers/generation/utils.py` with `generation/utils.py`. `(env_base_path)` can be found by running `conda env list` in the terminal (use the path corresponding to the `quatrope` environment).
 
 ### ASR Benchmark
